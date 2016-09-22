@@ -1,2 +1,1 @@
-Hello This is the new file at local repository folder.
-
+This is the new file on local repo.
